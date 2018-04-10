@@ -1,0 +1,2 @@
+# socr
+simple ocr
