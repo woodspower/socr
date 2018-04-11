@@ -1,0 +1,120 @@
+item {
+ id: 1
+ name: '1'
+}
+item {
+ id: 2
+ name: '-'
+}
+item {
+ id: 3
+ name: '.'
+}
+item {
+ id: 4
+ name: '}'
+}
+item {
+ id: 5
+ name: '6'
+}
+item {
+ id: 6
+ name: '+'
+}
+item {
+ id: 7
+ name: '/'
+}
+item {
+ id: 8
+ name: '3'
+}
+item {
+ id: 9
+ name: '4'
+}
+item {
+ id: 10
+ name: '7'
+}
+item {
+ id: 11
+ name: '9'
+}
+item {
+ id: 12
+ name: 'x'
+}
+item {
+ id: 13
+ name: '['
+}
+item {
+ id: 14
+ name: '='
+}
+item {
+ id: 15
+ name: '<'
+}
+item {
+ id: 16
+ name: '>'
+}
+item {
+ id: 17
+ name: '`'
+}
+item {
+ id: 18
+ name: ')'
+}
+item {
+ id: 19
+ name: '('
+}
+item {
+ id: 20
+ name: '0'
+}
+item {
+ id: 21
+ name: '2'
+}
+item {
+ id: 22
+ name: '8'
+}
+item {
+ id: 23
+ name: '_'
+}
+item {
+ id: 24
+ name: ']'
+}
+item {
+ id: 25
+ name: '%'
+}
+item {
+ id: 26
+ name: '*'
+}
+item {
+ id: 27
+ name: ','
+}
+item {
+ id: 28
+ name: '5'
+}
+item {
+ id: 29
+ name: '{'
+}
+item {
+ id: 30
+ name: ':'
+}
