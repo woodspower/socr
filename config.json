@@ -3,10 +3,10 @@
     "NoisePath":"./noise",
     "FontFiles": ["/usr/share/fonts/truetype/fonts-japanese-gothic.ttf", "/usr/share/fonts/truetype/padauk/Padauk-bookbold.ttf", "/usr/share/fonts/truetype/abyssinica/AbyssinicaSIL-R.ttf", "/usr/share/fonts/truetype/nanum/NanumMyeongjo.ttf", "/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-BI.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed-Oblique.ttf", "/usr/share/fonts/truetype/takao-gothic/TakaoPGothic.ttf", "/usr/share/fonts/truetype/lao/Phetsarath_OT.ttf", "/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf", "/usr/share/fonts/truetype/tlwg/Purisa-Bold.ttf", "/usr/share/fonts/truetype/tibetan-machine/TibetanMachineUni.ttf", "/usr/share/fonts/truetype/lato/Lato-Heavy.ttf", "/usr/share/fonts/truetype/freefont/FreeSerif.ttf", "/usr/share/fonts/truetype/ttf-khmeros-core/KhmerOS.ttf"],
     "OLDFontSizes": [7,8,9,10,11,12],
-    "FontSizes": [16],
-    "ImageSizes":["50*50","100*50","100*100","200*50","200*200","300*300"],
+    "FontSizes": [10,14,16],
+    "ImageSizes":["50*50","100*100"],
     "TempPath":"/tmp/socr",
-    "Chars":"0123456789:.,*()[]{}<>+-x/%`_=",
+    "Chars":"0123456789.()/%",
     "NoiseText":["","Test","This is","Level","What will you choose"],
     "ImageNum":1
 }
